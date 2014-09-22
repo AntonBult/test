@@ -1,3 +1,5 @@
 Detta är ett test för att visa hur det kan se ut när man använder GitHub.
 
 Denna text är till för at visa hur en redigering kan se ut.
+
+Detta kom jag på senare och la till!
